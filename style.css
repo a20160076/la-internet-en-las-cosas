@@ -1,0 +1,73 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #a3cbff;
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px;
+}
+
+.titulo p{
+  font-size: 90px;
+  font-family: 'Forte', Times, serif;
+  color: #23558b;
+  text-align: center;
+}
+.titulo{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid white;
+  height: 300px;
+  background-color:#3173c9 ;
+  margin: 8px;
+}
+.titulo2{
+  font-size: 90px;
+  font-family: 'Forte', Times, serif;
+  color: #23558b;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid #132467;
+  height: 140px;
+  margin: 40px;
+}
+  
+
+ .concepto2 img{
+  margin: 50px;
+  height: 350px;
+   align-items: left;
+ }
+
+.concepto2{
+  font-size: 30px;
+    font-family: 'Roboto', Times, serif;
+    color: #082544;
+    text-align: center;
+  background-color: #5797b7;
+}
+.lista{
+  font-size: 20px;
+    font-family: 'Roboto', Times, serif;
+    color: #082544;
+    text-align: center;
+  
+}
+.lista img{
+  height: 240px;
+  padding: 40px;
+}
+.enlaces p{
+  font-size: 30px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #1707ed;
+  text-align: center;
+  
